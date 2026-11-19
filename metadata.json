@@ -1,0 +1,6 @@
+{
+  "name": "BloodConnect",
+  "description": "Find Blood. Connect Donors. Save Lives. AI-powered blood donor finder and request coordination platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
